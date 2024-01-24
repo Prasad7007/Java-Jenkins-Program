@@ -6,5 +6,7 @@ public class Main{
         System.out.println(new Date());
         System.out.println("Created Chenges!");
         System.out.println("Added one more block!");
+        Student obj = new Student();
+        obj.sayHello();
     }
 }
